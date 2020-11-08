@@ -1,0 +1,72 @@
+body{
+    margin: 0;padding: 0;font-family: sans-serif;
+}
+.container{
+    width:80%;overflow: hidden;margin: auto; 
+}
+a{
+    text-decoration: none;
+}
+header{
+    background-color: #4367b1;color: #fff;
+}
+header h1{
+    float: left;
+}
+.right{
+    float: right;
+}
+.right table{
+    margin: 10px  0px;
+}
+.right td{
+    padding-left: 8px;
+}
+.right td a{
+    color: #fff;text-decoration: none;
+}
+.right table td a button{
+    background-color: #365899;color: #fff;padding: 3px 8px;text-decoration: none;border: 1px solid #fff;margin-left: 8px;
+}
+section{
+    background-color: #e9ebee;background-size: cover;
+}
+section.connect{
+    font-weight: bold;word-spacing: 0.2em;float: left;
+}
+section.create{
+   width: 40%;
+}
+
+.create h1{
+    font-size: 35px;
+}
+
+.create input{
+    height: 30px;border-radius: 5px;border: transparent;padding: 3px; 
+}
+.create set{
+    width: 80%; margin-top: 5%;
+}
+.create bg{
+    height: auto;
+}
+.create button{
+    padding: 8px;background-color: #5d9149;color: #fff;border: none;border-radius: 7px;
+}
+label{
+    display:block;padding: 0.7rem 0;font-weight: bold;color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
